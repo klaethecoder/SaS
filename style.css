@@ -18,6 +18,7 @@ nav {
 .aboutSectionContent {
   display: flex;
   align-items: center;
+  height: 80vh;
 }
 img {
   height: 350px;
@@ -30,4 +31,10 @@ img {
 #navbar {
   position: fixed;
   width: 100vw;
+}
+
+.profileText {
+  padding: 0 30px;
+  text-align: justify;
+  font-size: 20px;
 }
